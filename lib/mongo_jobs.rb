@@ -2,7 +2,6 @@ require "mongo_jobs/version"
 require 'fog'
 require 'securerandom'
 require 'dotenv'
-require 'curacao'
 
 Dotenv.load
 
