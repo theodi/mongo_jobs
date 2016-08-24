@@ -1,0 +1,5 @@
+[![Build Status](http://img.shields.io/travis/theodi/mongo_jobs.svg?style=flat-square)](https://travis-ci.org/theodi/mongo_jobs)
+[![Dependency Status](http://img.shields.io/gemnasium/theodi/mongo_jobs.svg?style=flat-square)](https://gemnasium.com/theodi/mongo_jobs)
+[![Code Climate](http://img.shields.io/codeclimate/github/theodi/mongo_jobs.svg?style=flat-square)](https://codeclimate.com/github/theodi/mongo_jobs)
+[![Gem Version](http://img.shields.io/gem/v/mongo_jobs.svg?style=flat-square)](https://rubygems.org/gems/mongo_jobs)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://theodi.mit-license.org)
