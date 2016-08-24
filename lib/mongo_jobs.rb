@@ -1,4 +1,4 @@
-require "mongo_jobs/version"
+require 'mongo_jobs/version'
 require 'fog'
 require 'securerandom'
 require 'dotenv'
